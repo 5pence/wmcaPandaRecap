@@ -5,3 +5,5 @@ To download this you need to do:
 - `git clone https://github.com/5pence/wmcaPandaRecap.git`
 
 in the directory that you want it to live.
+
+Oh wow spence has just added this....
